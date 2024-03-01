@@ -37,3 +37,4 @@ class CookieManager:
         self.save_cookies(browser)
         print("closing browser")
         browser.close()
+
